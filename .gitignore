@@ -1,7 +1,6 @@
 *.tar.gz
 MYMETA.json
 ignore.txt
-Changes
 blib/
 .build/
 _build/
