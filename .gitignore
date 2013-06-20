@@ -1,0 +1,8 @@
+blib
+*.tar.gz
+pm_to_blib
+MYMETA.json
+MYMETA.yml
+ignore.txt
+Changes
+Makefile
